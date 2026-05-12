@@ -20,8 +20,8 @@ My objective for this lab was to setup an Active Directory environment that I ca
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - AtomicRedTeam atomic test scripts to generate MITRE ATT&CK telemetry
 
-## Steps
-*Network diagram of the virtual Active Directory Environment I created. Hosts listed are the Ubuntu Splunk Server, a Windows Server 2022 host setup as a Domain Controller for AD with a splunk forwarder installed, a Kali Linux host for attacks, and the Windows 10 target machine with a splunk forwarder installed.
+## Network Diagram
+*Diagram of the virtual Active Directory Environment I created. Hosts listed are the Ubuntu Splunk Server, a Windows Server 2022 host setup as a Domain Controller for AD with a splunk forwarder installed, a Kali Linux host for attacks, and the Windows 10 target machine with a splunk forwarder installed.
 
 <img width="601" height="632" alt="image" src="https://github.com/user-attachments/assets/a39ea0ce-9a73-41bf-b331-1fdb60c6f311" />
 
