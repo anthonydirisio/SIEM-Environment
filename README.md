@@ -1,5 +1,4 @@
 # SIEM Implementation and Log Analysis
-**In Progress**
 
 ## Objective
 
@@ -20,8 +19,19 @@ My objective for this lab was to setup an Active Directory environment that I ca
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - AtomicRedTeam atomic test scripts to generate MITRE ATT&CK telemetry
 
-## Network Diagram
-*Diagram of the virtual Active Directory Environment I created. Hosts listed are the Ubuntu Splunk Server, a Windows Server 2022 host setup as a Domain Controller for AD with a splunk forwarder installed, a Kali Linux host for attacks, and the Windows 10 target machine with a splunk forwarder installed.
+### Machines Involved
+- Splunk Server Installed on Ubuntu 24.04.4
+- Active Directory DC on Windows Server 2022 (Splunk Universal Forwarder & Sysmon Installed)
+- Target machine is a Windows 10 host (Splunk Universal Forwarder & Sysmon Installed)
+- Attacker machine is a Kali Linux host
+
+## Lab Setup
+*Diagram of the virtual SOC environment I created, including Active Directory.
 
 <img width="601" height="632" alt="image" src="https://github.com/user-attachments/assets/a39ea0ce-9a73-41bf-b331-1fdb60c6f311" />
+
+## Attack Investigation Write-ups
+- <a href="https://google.com">Filler sample for now</a>
+
+
 
