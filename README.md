@@ -25,13 +25,8 @@ My objective for this lab was to setup an Active Directory environment that I ca
 - Target machine is a Windows 10 host (Splunk Universal Forwarder & Sysmon Installed)
 - Attacker machine is a Kali Linux host
 
-## Lab Setup
-*Diagram of the Active Directory/SOC Environment I created.
-
-<img width="601" height="632" alt="image" src="https://github.com/user-attachments/assets/a39ea0ce-9a73-41bf-b331-1fdb60c6f311" />
-
-## Attack Investigation Write-ups
-- <a href="https://google.com">Filler sample for now</a>
+## Lab Setup & Investigation Write-ups
+- <a href="https://github.com/anthonydirisio/SIEM-Environment/blob/main/SocConfig.md">Lab Configuration & Network Diagram</a>
 
 
 
