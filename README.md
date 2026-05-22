@@ -16,7 +16,7 @@ My objective for this lab was to setup an Active Directory environment that I ca
 ### Tools Used
 - VirtualBox as a type 2 hypervisor
 - Splunk as a SIEM along with universal forwarders
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Wireshark for capturing and examining network traffic.
 - AtomicRedTeam atomic test scripts to generate MITRE ATT&CK telemetry
 
 ### Machines Involved
@@ -26,7 +26,7 @@ My objective for this lab was to setup an Active Directory environment that I ca
 - Attacker machine is a Kali Linux host
 
 ## Lab Setup
-*Diagram of the virtual SOC environment I created, including Active Directory.
+*Diagram of the Active Directory/SOC Environment I created.
 
 <img width="601" height="632" alt="image" src="https://github.com/user-attachments/assets/a39ea0ce-9a73-41bf-b331-1fdb60c6f311" />
 
