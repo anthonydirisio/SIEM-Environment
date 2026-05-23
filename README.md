@@ -27,6 +27,7 @@ My objective for this lab was to setup an Active Directory environment that I ca
 
 ## Lab Setup & Investigation Write-ups
 - <a href="https://github.com/anthonydirisio/SIEM-Environment/blob/main/SocConfig.md">Lab Configuration & Network Diagram</a>
+- <a href="https://github.com/anthonydirisio/SIEM-Environment/blob/main/Brute_Force.md">Brute Force Attack & Attack Analysis in Splunk</a>
 
 
 
