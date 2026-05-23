@@ -6,7 +6,6 @@ My objective for this lab was to setup an Active Directory environment that I ca
 
 ### Skills Learned
 - Advanced understanding of SIEM concepts, configuration, and practical application
-- Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
@@ -16,8 +15,8 @@ My objective for this lab was to setup an Active Directory environment that I ca
 ### Tools Used
 - VirtualBox as a type 2 hypervisor
 - Splunk as a SIEM along with universal forwarders
-- Wireshark for capturing and examining network traffic.
 - AtomicRedTeam atomic test scripts to generate MITRE ATT&CK telemetry
+- Hydra for brute force attacks
 
 ### Machines Involved
 - Splunk Server Installed on Ubuntu 24.04.4
