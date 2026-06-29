@@ -33,7 +33,7 @@ I conducted a brute force attack on a Windows 10 machine with Hydra in Kali Linu
 
 <img width="1888" height="498" alt="image" src="https://github.com/user-attachments/assets/4aebcdb7-e86b-4f9a-afb7-6a773cb9e9e5" />
 
-* These screenshots are showing the expanded events related to the successful logons above. The left one is the logon that occured over the network showing what we saw before with mbrown logging into the Victim-WIN10 host from kali at 10.0.10.100. The screenshot on the right shows the successful logon to Victim-WIN10 as mbrown over RDP. This alert shows the source host being Victim-WIN10, but noting the source IP address 10.0.10.100 which is consistent with all of the failed logon attempts and the successful logon over the network, showing that this actually came from the same source as before. I would conclude this logon is connected and malicious as well.
+* These screenshots are showing the expanded events related to the successful logons above. The left one is the logon that occured over the network showing what we saw before with mbrown logging into the Victim-WIN10 host from kali at 10.0.10.100. The screenshot on the right shows the successful logon to Victim-WIN10 as mbrown over RDP. This alert shows the source host being Victim-WIN10, but noting the source IP address 10.0.10.100 which is consistent with all of the failed logon attempts and the successful logon over the network, showing that this actually came from the same source as before. I would conclude this logon is connected and malicious.
 
 <img width="358" height="256" alt="successfullogin-IPsrc" src="https://github.com/user-attachments/assets/4faefbe4-ed1a-4154-89c4-7fb9ca571089" />
 
